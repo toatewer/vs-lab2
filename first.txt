@@ -1,1 +1,2 @@
 Hello Git
+Conflict line from main branch
