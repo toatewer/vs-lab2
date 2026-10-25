@@ -1,2 +1,1 @@
-Hello Git
-Conflict line from main branch
+Version from MAIN branch
